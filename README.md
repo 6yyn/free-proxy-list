@@ -60,7 +60,6 @@ Auto-updated free HTTP / HTTPS proxies every 3–5 minutes.
 **Payment Methods:**
 - 💎 Crypto (BTC, USDT, ETH)
 - 💳 PayPal
-- 💵 Western Union
 
 ---
 
