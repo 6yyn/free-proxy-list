@@ -6,7 +6,7 @@ Auto-updated free HTTP / HTTPS proxies every 3–5 minutes.
 https://free.6yyn.shop
 
 ## Telegram (Free Proxies Channel)
-https://t.me/KWKKT
+https://t.me/KWKKH
 
 ## Private Premium Access
 High quality private proxies available.
