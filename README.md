@@ -41,9 +41,9 @@ Auto-updated free HTTP / HTTPS proxies every 3–5 minutes.
 | Plan | Price | Features |
 |------|-------|----------|
 | **Trial** | **$3** | 24 hours access |
-| **Weekly** | **$8** | 7 days full access |
-| **Bi-Weekly** | **$14** | 14 days full access |
-| **Monthly** | **$25** | 30 days full access |
+| **Weekly** | **$11** | 7 days full access |
+| **Bi-Weekly** | **$18** | 14 days full access |
+| **Monthly** | **$29** | 30 days full access |
 
 **Best Value:** Monthly = $0.83/day 💎
 
