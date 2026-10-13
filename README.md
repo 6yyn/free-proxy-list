@@ -61,9 +61,9 @@ For **dedicated IPs**, **99.9% uptime**, and **high-speed** access:
 | Plan | Price | Duration |
 |------|-------|----------|
 | Trial | $3 | 24 hours |
-| Weekly | $11 | 7 days |
+| Weekly | $10 | 7 days |
 | Bi-Weekly | $18 | 14 days |
-| Monthly | $29 | 30 days |
+| Monthly | $35 | 30 days |
 
 👉 [Contact on Telegram](https://t.me/w57n1) | 🌐 [Website](https://free.6yyn.shop)
 
