@@ -24,9 +24,9 @@ Tested against **Google** and **Instagram**. Updated every **3–5 minutes**.
 
 ## 📊 Live Stats
 
-- 🔹 **Google Working:** 699
-- 🔹 **Instagram Working:** 665
-- 🔹 **Last Update:** 2026-10-13 03:36:57
+- 🔹 **Google Working:** 799
+- 🔹 **Instagram Working:** 752
+- 🔹 **Last Update:** 2026-10-13 03:44:25
 - 🔹 **Update Frequency:** Every 3–5 minutes
 
 ---
@@ -61,9 +61,9 @@ For **dedicated IPs**, **99.9% uptime**, and **high-speed** access:
 | Plan | Price | Duration |
 |------|-------|----------|
 | Trial | $3 | 24 hours |
-| Weekly | $10 | 7 days |
+| Weekly | $11 | 7 days |
 | Bi-Weekly | $18 | 14 days |
-| Monthly | $35 | 30 days |
+| Monthly | $29 | 30 days |
 
 👉 [Contact on Telegram](https://t.me/w57n1) | 🌐 [Website](https://free.6yyn.shop)
 
