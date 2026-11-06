@@ -24,9 +24,9 @@ Tested against **Google** and **Instagram**. Updated every **3–5 minutes**.
 
 ## 📊 Live Stats
 
-- 🔹 **Google Working:** 682
-- 🔹 **Instagram Working:** 619
-- 🔹 **Last Update:** 2026-11-06 13:11:59
+- 🔹 **Google Working:** 712
+- 🔹 **Instagram Working:** 637
+- 🔹 **Last Update:** 2026-11-06 13:37:31
 - 🔹 **Update Frequency:** Every 3–5 minutes
 
 ---
